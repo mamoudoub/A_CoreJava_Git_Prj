@@ -22,7 +22,7 @@ public class Main {
 			//dr.minNumList();
 			// boolean a = dr.isPrime(38);
 			//dr.isPalindrome("never odd or even");
-			//isPalindrome("no even");
+			//dr.isPalindrome("no even");
 			
 			System.out.printf("a = %d\nb = %d\nc = %d\n", a, b, c);
 			System.out.printf("Reminder of b and a is %d\n", (c % a));
