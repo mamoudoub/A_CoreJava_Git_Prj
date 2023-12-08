@@ -25,6 +25,7 @@ public class Main {
 			//dr.isPalindrome("no even");
 			
 			System.out.printf("a = %d\nb = %d\nc = %d\n", a, b, c);
+			System.out.printf("%d + %d + %d = %d\n", a, b, c, (a + b + c));
 			System.out.printf("Reminder of b and a is %d\n", (c % a));
 			System.out.printf("Reminder of d and c is %d\n",  (c % b));
 			System.out.printf("Reminder of b+d and a+c is %d\n", (c*c % a*b));
